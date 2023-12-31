@@ -1,16 +1,7 @@
 # flutter_application_1
 
-A new Flutter project.
+A pokemon app that handles state by using provider a concept of bloc has been used as well on favourite button.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://raw.githubusercontent.com/Master-Bibash/Pokemon_with_Provider/main/pictures/Screenshot%202023-12-31%20100210.png?token=GHSAT0AAAAAACERJWUQLA3IRERBZM6VDOVCZMQ544A" width="400" height="600" /> 
